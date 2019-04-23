@@ -1,4 +1,4 @@
-# Vcpkg Utils
+# Vcpkg Utilities
 
 This repository contains utilities for using Vcpkg (https://github.com/Microsoft/vcpkg).
 
