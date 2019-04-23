@@ -11,7 +11,7 @@ This is a CMake module to be used in a CMake script to download vcpkg and build 
 Here is an example of a CMake script using this module:
 
 ```cmake
-include(cmake/Vcpkg3rdParty.cmake)
+include(Vcpkg3rdParty.cmake)
 
 # Initialize the module (download and bootstrap vcpkg if necessary, pull last revisions)
 vcpkg_init()
